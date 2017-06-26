@@ -20,6 +20,13 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+<<<<<<< HEAD
+=======
+gem 'devise', '~> 4.2'
+gem 'simple_form', '~> 3.5'
+gem 'haml', '~> 5.0'
+
+>>>>>>> 952b8d5354f684c191bc6afc930d12631078a1d2
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
@@ -32,6 +39,10 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 952b8d5354f684c191bc6afc930d12631078a1d2
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

@@ -1,4 +1,5 @@
 /*
+<<<<<<< HEAD
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
@@ -262,3 +263,13 @@ a {
 		}
 	}
 }
+=======
+ *= require_self
+ */
+
+ @import 'normalize';
+ @import "global.css.scss";
+ @import "docs.css.scss";
+ @import "welcome.css.scss";
+
+>>>>>>> 952b8d5354f684c191bc6afc930d12631078a1d2
